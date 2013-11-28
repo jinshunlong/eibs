@@ -22,11 +22,11 @@
         <servlet-class>com.caucho.hessian.server.HessianServlet</servlet-class>
         <init-param>
             <param-name>home-class</param-name>
-            <param-value>com.brilliance.eibs.service.api.impl.EIBSServiceImpl</param-value>
+            <param-value>com.brilliance.eibs.service.impl.EIBSServiceImpl</param-value>
         </init-param>
         <init-param>
             <param-name>home-api</param-name>
-            <param-value>com.brilliance.eibs.service.api.EIBSService</param-value>
+            <param-value>com.brilliance.eibs.client.service.EIBSService</param-value>
         </init-param>
         <load-on-startup>1</load-on-startup>
     </servlet>

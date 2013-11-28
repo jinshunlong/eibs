@@ -1,5 +1,6 @@
 package com.brilliance.eibs.service.api;
 
+import com.brilliance.eibs.client.service.EIBSService;
 import com.caucho.hessian.client.HessianProxyFactory;
 import junit.framework.TestCase;
 import org.apache.cxf.jaxws.JaxWsProxyFactoryBean;

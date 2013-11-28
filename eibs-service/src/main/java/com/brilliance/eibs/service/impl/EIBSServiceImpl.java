@@ -1,6 +1,6 @@
-package com.brilliance.eibs.service.api.impl;
+package com.brilliance.eibs.service.impl;
 
-import com.brilliance.eibs.service.api.EIBSService;
+import com.brilliance.eibs.client.service.EIBSService;
 
 import javax.jws.WebService;
 

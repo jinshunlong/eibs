@@ -10,6 +10,6 @@
     <import resource="classpath:META-INF/cxf/cxf-extension-soap.xml" />
     <import resource="classpath:META-INF/cxf/cxf-servlet.xml" />
 
-    <jaxws:endpoint id="eibs" implementor="com.brilliance.eibs.service.api.impl.EIBSServiceImpl" address="/eibs" />
+    <jaxws:endpoint id="eibs" implementor="com.brilliance.eibs.service.impl.EIBSServiceImpl" address="/eibs" />
 </beans>
 
