@@ -1,4 +1,4 @@
-package com.brilliance.eibs.service.api;
+package com.brilliance.eibs.client.service;
 
 import javax.jws.WebService;
 

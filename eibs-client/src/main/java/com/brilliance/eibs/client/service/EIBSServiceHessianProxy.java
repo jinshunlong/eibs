@@ -1,4 +1,4 @@
-package com.brilliance.eibs.service.api;
+package com.brilliance.eibs.client.service;
 
 import com.caucho.hessian.client.HessianProxyFactory;
 import org.apache.log4j.Logger;

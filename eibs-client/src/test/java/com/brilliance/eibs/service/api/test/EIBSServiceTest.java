@@ -1,9 +1,8 @@
 package com.brilliance.eibs.service.api.test;
 
-import com.brilliance.eibs.service.api.EIBSService;
-import com.brilliance.eibs.service.api.EIBSServiceCXFFactory;
-import com.brilliance.eibs.service.api.EIBSServiceCXFProxy;
-import com.brilliance.eibs.service.api.EIBSServiceHessianFactory;
+import com.brilliance.eibs.client.service.EIBSService;
+import com.brilliance.eibs.client.service.EIBSServiceCXFFactory;
+import com.brilliance.eibs.client.service.EIBSServiceHessianFactory;
 import junit.framework.TestCase;
 
 /**

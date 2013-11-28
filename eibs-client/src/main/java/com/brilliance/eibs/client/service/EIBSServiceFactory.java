@@ -1,4 +1,4 @@
-package com.brilliance.eibs.service.api;
+package com.brilliance.eibs.client.service;
 
 /**
  * 调用eibs service的客户端.

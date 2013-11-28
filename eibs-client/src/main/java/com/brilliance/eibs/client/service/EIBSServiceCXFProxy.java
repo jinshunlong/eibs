@@ -1,9 +1,7 @@
-package com.brilliance.eibs.service.api;
+package com.brilliance.eibs.client.service;
 
 import org.apache.cxf.jaxws.JaxWsProxyFactoryBean;
 import org.apache.log4j.Logger;
-
-import java.net.MalformedURLException;
 
 /**
  * Created with IntelliJ IDEA.
