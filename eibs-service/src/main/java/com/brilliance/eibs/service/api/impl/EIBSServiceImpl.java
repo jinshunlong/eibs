@@ -11,7 +11,7 @@ import javax.jws.WebService;
  * Time: 下午1:59
  */
 @WebService()
-public class EIBSServiceImpl implements EIBSService{
+public class EIBSServiceImpl implements EIBSService {
     @Override
     public String execService(String moduleId, String servicePath, String jsonParams) {
         //TODO 具体访问EIBS web service的逻辑代码
