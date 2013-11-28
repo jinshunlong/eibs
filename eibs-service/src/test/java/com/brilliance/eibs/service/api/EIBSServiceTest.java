@@ -11,8 +11,9 @@ import org.apache.cxf.jaxws.JaxWsProxyFactoryBean;
  * Time: 下午3:40
  */
 public class EIBSServiceTest extends TestCase {
-    private static final String URL_HESSIAN = "http://localhost:8080/eibs-service-1.0-SNAPSHOT/hessian";
-    private static final String URL_CXF = "http://localhost:8080/eibs-service-1.0-SNAPSHOT/cxf/eibs";
+    private static final String HOST = "http://172.16.4.108:8080/eibs-service";
+    private static final String URL_HESSIAN = HOST + "/hessian";
+    private static final String URL_CXF = HOST + "/cxf/eibs";
     /**
      * 测试execService方法，测试hessian发布的方式
      * @throws Exception
