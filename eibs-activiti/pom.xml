@@ -8,5 +8,11 @@
     <artifactId>eibs-activiti</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <developers>
+        <developer>
+            <name>jinshunlong</name>
+            <email>15267525@qq.com</email>
+        </developer>
+    </developers>
     
 </project>
