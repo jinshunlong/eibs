@@ -14,5 +14,12 @@
             <email>15267525@qq.com</email>
         </developer>
     </developers>
-    
+
+    <dependencies>
+        <dependency>
+            <groupId>com.brilliance</groupId>
+            <artifactId>eibs-client</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
